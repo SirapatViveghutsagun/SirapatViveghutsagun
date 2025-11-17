@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 STUDENT IN THE UNIVERSITY OF PHAYAO 
 
-I'm learning to be developer  
+I'm learning to be developer  👨‍💻
 * 🌍  I'm based in Phayao, Thailand 
 * ✉️  You can contact me at [Sirapatviveghutsagun@gmail.com](mailto:Sirapatviveghutsagun@gmail.com)
 * * 🧠  I'm currently learning Python Language
