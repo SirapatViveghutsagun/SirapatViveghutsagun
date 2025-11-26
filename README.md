@@ -7,7 +7,7 @@ STUDENT IN THE UNIVERSITY OF PHAYAO
 🤯 I'm learning to be developer  👨‍💻
 * 🌍  I'm based in Phayao, Thailand 
 * ✉️  You can contact me at [Sirapatviveghutsagun@gmail.com](mailto:Sirapatviveghutsagun@gmail.com)🥳
-* * 🧠  I'm currently learning Python Language💪
+* * 🧠  I'm currently learning Python Language.💪
 
 ### Skills
 
