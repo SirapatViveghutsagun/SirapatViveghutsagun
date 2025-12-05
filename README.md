@@ -2,7 +2,7 @@
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Sirapat Viveghutsagun 
 
-💪STUDENT IN THE UNIVERSITY OF PHAYAO 🤖
+💪STUDENT IN THE UNIVERSITY OF PHAYAO 👨‍💻
 
 🤯 I'm learning to be developer  👨‍💻
 * 🌍  I'm based in Phayao, Thailand 🥳
